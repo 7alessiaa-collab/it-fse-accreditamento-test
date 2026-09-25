@@ -10,3 +10,4 @@ Grazie per contribuire. In sintesi:
 
 > File di prova semplificato, usato solo per verificare come le linee guida vengono
 > mostrate all'utente. La versione completa è in `CONTRIBUTING.md`.
+PROVA PROVa
